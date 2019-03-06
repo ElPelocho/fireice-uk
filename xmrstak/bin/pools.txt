@@ -16,7 +16,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "91.121.140.167:5555", "wallet_address" : "47Ejp2YdsHBM3TePmRsEXSBbMKs3VNo6iakqB1M1CY1ScbpEjN5u48jGuvXFZ9vYeFZjXkQauD2rRLkpXRfBSKZkKLavmKb", "rig_id" : "x", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "91.121.140.167:5555", "wallet_address" : "47Ejp2YdsHBM3TePmRsEXSBbMKs3VNo6iakqB1M1CY1ScbpEjN5u48jGuvXFZ9vYeFZjXkQauD2rRLkpXRfBSKZkKLavmKb", "rig_id" : "1CPU", "pool_password" : "1CPU", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
